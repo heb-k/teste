@@ -7437,7 +7437,7 @@ strong {
 }
 
 .wrapper.indexpage {
-    background-image: url(//blush.la/wp-content/themes/blushla/./img/bg__top.png)
+    background-image: url(../imgs/bg__top.png)
 }
 
 @media only screen and (max-width: 1199px) {
