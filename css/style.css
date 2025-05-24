@@ -1704,7 +1704,7 @@ pre.wp-block-verse {
     width: 24px;
     height: 24px;
     overflow: hidden;
-    background: url(//blush.la/wp-content/plugins/instagram-feed/css/../img/small-logo.png) no-repeat
+    background: url("https://heb-k.github.io/teste/mgs/small-logo.png") no-repeat
 }
 
 #sb_instagram .sb_instagram_header .sbi_fade_in {
@@ -3302,14 +3302,14 @@ strong {
 }
 
 .wrapper.indexpage {
-    background-image: url(//blush.la/wp-content/themes/blushla/css/../img/bg__top2.svg);
+    background-image: url("https://heb-k.github.io/teste/imgs/bg__top2.webp");
     background-position: 100% 0;
     background-size: calc(100% - ((100% - 1140px)/2)) auto;
     background-repeat: no-repeat
 }
 
 .wrapper.simplepage {
-    background-image: url(//blush.la/wp-content/themes/blushla/css/../img/simplepage__bg.svg);
+    background-image: url("https://heb-k.github.io/teste/imgs/simplepage__bg.svg");
     background-position: 0 0;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -3478,7 +3478,7 @@ strong {
 
 .promo-insta {
     margin-top: 2.125rem;
-    background-image: url(//blush.la/wp-content/themes/blushla/css/../img/bg__insta.jpg);
+    background-image: url("https://heb-k.github.io/teste/imgs/bg__insta.webp");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 2.1875rem 0 3.125rem;
@@ -3606,7 +3606,7 @@ strong {
     padding: 6.25rem 0;
     text-align: center;
     background-size: cover;
-    background-image: url(//blush.la/wp-content/themes/blushla/css/../img/bg__bottom-promo-mob.jpg)
+    background-image: url("https://heb-k.github.io/teste/imgs/bg__bottom-promo-mob.webp")
 }
 
 .card .icon-logo-without-text {
@@ -5528,7 +5528,7 @@ strong {
     }
 
     .card {
-        background-image: url(//blush.la/wp-content/themes/blushla/css/../img/bg__bottom-promo.jpg)
+        background-image: url("https://heb-k.github.io/teste/imgs/bg__bottom-promo.webp")
     }
 }
 
@@ -7088,7 +7088,7 @@ strong {
 
 @media only screen and (max-width: 1199px) {
     .wrapper.indexpage {
-        background-image:url(//blush.la/wp-content/themes/blushla/css/../img/bg__top-mob.svg);
+        background-image:url("https://heb-k.github.io/teste/imgs/bg__top-mobsvg.webp");
         background-position: 50% 0;
         background-size: 403px auto
     }
@@ -7437,11 +7437,11 @@ strong {
 }
 
 .wrapper.indexpage {
-    background-image: url(../imgs/bg__top.png)
+    background-image: url("https://heb-k.github.io/teste/imgs/bg__top.webp")
 }
 
 @media only screen and (max-width: 1199px) {
     .wrapper.indexpage {
-        background-image:url(//blush.la/wp-content/themes/blushla/./img/bg__top-mob.png)
+        background-image:url("https://heb-k.github.io/teste/imgs/bg__top-mob.webp")
     }
 }
