@@ -7445,3 +7445,10 @@ strong {
         background-image:url("https://heb-k.github.io/teste/imgs/bg__top-mob.webp")
     }
 }
+
+.slds-scope{
+    text-align:center;
+}
+.slds-input{
+    width: 50%;
+}
