@@ -7449,6 +7449,6 @@ strong {
 .slds-scope{
     text-align:center;
 }
-input{
+#input-6, #input-8{
     width: 50%;
 }
